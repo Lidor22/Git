@@ -5,12 +5,12 @@ Personal Git Version - based on the original Git.
 As a part of our Java course , we created our own version of Git platform.
 Our system allows several users to manage different repositories and to control their versions across the repository history.
 During this Project we learned about new Java elements such as :
-*Using multiple threads in Java.
-*Creating desktop Application with JavaFX.
-*Work with several projects and 3rd side libararies.
-*Use of Collections,Streams,Lamda expressions.
-*CSS.
-*Usage and creation of JAR's.
+* Using multiple threads in Java.
+* Creating desktop Application with JavaFX.
+* Work with several projects and 3rd side libararies.
+* Use of Collections,Streams,Lamda expressions.
+* CSS.
+- Usage and creation of JAR's.
 
 # Our Project:
 
