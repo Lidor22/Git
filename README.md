@@ -1,4 +1,4 @@
-# Git
+# myGit - desktop application
 Personal Git Version - based on the original Git.
 
 # Introduction:
